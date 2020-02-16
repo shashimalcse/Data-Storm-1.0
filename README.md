@@ -1,4 +1,6 @@
-# Data-Storm-1.0 team ds1085 data whisperers  ( please refer this document before go to the notebook)
+# Data-Storm-1.0 
+# team ds1085 - data whisperers  
+## (please refer this document before go to the notebook)
 
 
 ## documented notebook ---> day2/datastorm_RandomForest_XGBoost.ipynb
