@@ -8,8 +8,9 @@
 
 
 Day1 --- in day 1 we use normal random forest model. in this model we got 
-         Accuracy  --->  0.8260416
-         F1 Scores --->  0 ---> 0.90
+         
+         **Accuracy**  --->  0.8260416
+         **F1 Scores** --->  0 ---> 0.90
                          1 ---> 0.48
   
 Day2 --- in day 2 we use random forest and xgboot models. and also we over sampling the dataset (it affected on accuracy )
