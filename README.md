@@ -18,14 +18,14 @@
 #### Day2 --- in day 2 we use random forest and xgboot models. and also we over sampling the dataset (it affected on accuracy )
 
          Random Forest
-                  Accuracy  --->  0.809587573647563
-                  F1 Scores --->  0 ---> 0.82 
-                                  1 ---> 0.80
+                  Accuracy  --->  0.789234
+                  F1 Scores --->  0 ---> 0.80
+                                  1 ---> 0.78
          
          XGBoost
-                  Accuracy  --->  0.84627745
+                  Accuracy  --->  0.8142742
                   F1 Scores --->  0 ---> 0.82 
-                                  1 ---> 0.80         
+                                  1 ---> 0.81         
 
 ### if you want to refer our progress . please go through the commit history
 
